@@ -1,7 +1,6 @@
 # gastos-viajens-kotlin
-# python-checkpoint-3
 
-# Python
+
 
 Projeto de gastos de viajens
 
