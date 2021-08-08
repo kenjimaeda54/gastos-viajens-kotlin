@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sppeding</string>
+    <string name="text_filed_kilometros">Total de kilometros</string>
+    <string name="distancia">Distancia</string>
+    <string name="preco">Preco</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="preco_por_litro">Preco por litro</string>
+    <string name="km_por_litro">Km por litro</string>
+    <string name="seu_gasto_sera">Seu gasto sera</string>
+    <string name="r_0">R$ 0</string>
+    <string name="calcular">Calcular</string>
+    <string name="validation_empty_field">Por favor preencha todos os campos</string>
+    <string name="validation_field_correct">Coloque os valores corretos</string>
+</resources>

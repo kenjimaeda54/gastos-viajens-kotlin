@@ -1,0 +1,2 @@
+rootProject.name = "sppeding"
+include ':app'
